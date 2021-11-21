@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+:root{
+	--shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+*{
+	
+	
+	list-style-type: none;
+}
+body{
+	color:black;
+	font-family: 'DM Sans', sans-serif;
+}
+
+
